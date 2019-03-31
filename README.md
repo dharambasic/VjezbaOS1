@@ -1,0 +1,2 @@
+# VjezbaOS1
+Diskovi
